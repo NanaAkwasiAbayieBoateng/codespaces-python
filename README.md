@@ -74,6 +74,8 @@ source ~/.venv/bin/activate
   ``` touch requirements.txt
 
   ```
+- The Makefile will allow to setup github actions for continuous integration.
+- Go to Actions then set up a workflow yourself 
 
   ``` touch Makefile
   ```
